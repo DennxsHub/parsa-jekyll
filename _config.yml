@@ -7,7 +7,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 title: PC Config Support
 logo: /assets/images/logo.png # You can add own logo
 email: soporte@pcconfig.com
-description: # Add your awesome description
+description: Plataforma digital de soporte y configuración de computadoras
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
 # Preloader
 preloader: true # To disable preloader change value to false
@@ -22,6 +22,16 @@ menu:
   - name: Blog
     url: https://dennxshub.github.io/parsa-jekyll/blog/
 
+  - name: Inicio
+    url: /
+  - name: Configurar PC
+    url: /configurar-pc/
+  - name: Servicios
+    url: /servicios/
+  - name: Sobre Nosotros
+    url: /about/
+  - name: Contacto
+    url: /contact/
 # *** NOTE ***
 # You can add submenus. For example:
 
@@ -40,21 +50,21 @@ featured-post-slider: true # You can enable or disable the featured-post-slider 
 #-------------------------------
 # Hero Section
 hero:
-  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
+  hero-subtitle: Plataforma digital que te ayuda a configurar tu PC ideal según tu presupuesto y necesidades.
   hero-banner: /assets/images/banner-img.png # Add your banner image '/assets/images/'
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jhon Abraham
+  name: PcSupport
 
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
+  email: dennis@pcsupport.com
+  phone: +51 987654321
   address:
-    city: Sydney
+    city: Lima
     street: 6 rip carl Avenue CA 90733
 
 # Contact Form

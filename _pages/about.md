@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Sobre Nosotros
 permalink: /about/
 image: /assets/images/author.jpg
 ---
