@@ -13,11 +13,13 @@ preloader: true # To disable preloader change value to false
 
 menu:
   - name: Home
-    url: /
+    url: https://dennxshub.github.io/parsa-jekyll/
   - name: About
-    url: /about/
+    url: https://dennxshub.github.io/parsa-jekyll/about/
   - name: Contact
-    url: /contact/
+    url: https://dennxshub.github.io/parsa-jekyll/contact/
+  - name: Contact
+    url: https://dennxshub.github.io/parsa-jekyll/blog/
 
 # *** NOTE ***
 # You can add submenus. For example:
