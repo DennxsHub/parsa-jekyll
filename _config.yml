@@ -25,13 +25,13 @@ menu:
   - name: Inicio
     url: /
   - name: Configurar PC
-    url: /configurar-pc/
+    url: https://dennxshub.github.io/configurar-pc/
   - name: Servicios
-    url: /servicios/
+    url: https://dennxshub.github.io/servicios/
   - name: Sobre Nosotros
-    url: /about/
+    url: https://dennxshub.github.io/about/
   - name: Contacto
-    url: /contact/
+    url: https://dennxshub.github.io/contact/
 # *** NOTE ***
 # You can add submenus. For example:
 
